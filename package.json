@@ -1,0 +1,21 @@
+{
+  "name": "node_api_seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shelby Foegelle",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2",
+    "mocha": "^2.5.3",
+    "supertest": "^2.0.0"
+  }
+}
